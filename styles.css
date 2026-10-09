@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(88, 72, 62);
+    color: white;
+}
+
+img {
+    scale: 70%;
+}
